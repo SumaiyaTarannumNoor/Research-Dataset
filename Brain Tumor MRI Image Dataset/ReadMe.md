@@ -1,4 +1,4 @@
-  Dataset Sourses- <br>
+  Dataset Sources- <br>
   The main dataset is collected from kaggle. <br>
   The link for this kaggle repo - <br>
   https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri<br>
